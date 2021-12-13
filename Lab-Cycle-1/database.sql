@@ -59,3 +59,29 @@ insert into Author values(31,'Muthuraman','muthu@gmail.com','8092622','Available
 insert into Author values(32,'Hazel Lancaster','hazel@gmail.com','9067622','Not Available');
 insert into Author values(33,'Bin Laden','bin@gmail.com','8047622','Available');
 insert into Author values(34,'Sukumara Kurupp','findmeifyoucan@gmail.com','9047622','Not Available');
+
+insert into Book_Author values(1507,20);
+
+
+insert into Book_Author values(1508,26);
+
+
+insert into Book_Author values(1500,27);
+
+
+insert into Book_Author values(1502,30);
+
+
+insert into Book_Author values(1505,31);
+
+
+insert into Book_Author values(1506,20);
+
+
+insert into Book_Author values(1504,25);
+
+
+insert into Book_Author values(1509,33);
+
+
+insert into Book_Author values(1501,21);
