@@ -1,4 +1,4 @@
-# S5 CSL 333 Database MAnagement Systems Lab
+# S5 CSL 333 Database Management Systems Lab
 
 ## Lab Cycle 1
 
