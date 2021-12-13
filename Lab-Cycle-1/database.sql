@@ -38,11 +38,11 @@ insert into Book values(1501,'Chemmeen',2,450,100,'1990-07-11',5,'Not Available'
 insert into Book values(1502,'Senorita',3,500,103,'2010-09-19',1,'Available');
 insert into Book values(1503,'Carpe Diem',4,250,106,'2018-10-02',6,'Available');
 insert into Book values(1504,'Bonjour',4,550,102,'2015-06-01',3,'Not Available');
-insert into Book values(1505,'Kannamma',8,100,104,'2011-02-19',1,'Not Available');
+insert into Book values(1505,'The Secret',8,100,104,'2011-02-19',1,'Not Available');
 insert into Book values(1506,'Raazi',5,800,105,'2019-01-21',2,'Available');
 insert into Book values(1507,'2 States',5,600,101,'2011-06-01',1,'Available');
-insert into Book values(1508,'Maafi',6,250,103,'2006-08-03',6,'Not Available');
-insert into Book values(1509,'Pattaas',10,350,108,'2016-06-17',2,'Available');
+insert into Book values(1508,'Maafi Mushkil',6,250,103,'2006-08-03',6,'Not Available');
+insert into Book values(1509,'Life',10,350,108,'2016-06-17',2,'Available');
 
 insert into Author values(20,'Chetan Bhagat','chetan@gmail.com','9712472','Available');
 insert into Author values(21,'Vallathol','Vallathol@gmail.com','9272272','Not Available');
