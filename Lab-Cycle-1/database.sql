@@ -70,3 +70,23 @@ insert into Book_Author values(1504,25);
 insert into Book_Author values(1509,33);
 insert into Book_Author values(1501,21);
 insert into Book_Author values(1503,29);
+
+insert into Member values(50,'Fathima',001,24,234769,'fathima@gmail.com','2019-08-20','Y');
+insert into Member values(51,'Gowri',002,28,637718,'mungath@gmail.com','2021-06-29','Y');
+insert into Member values(52,'Divya',002,22,374693,'dd@gmail.com','2018-02-18','Y');
+insert into Member values(53,'Sam',003,16,324622,'sam@gmail.com','2013-01-28','N');
+insert into Member values(54,'Robert',001,25,782322,'rb@gmail.com','2017-07-21','N');
+insert into Member values(55,'Archana',001,21,809322,'archana@gmail.com','2010-08-22','Y');
+insert into Member values(56,'Ardra',003,20,898266,'ardra@gmail.com','2017-01-12','Y');
+
+insert into Book_Issue values(60,'2021-12-08',1502,52,'2021-12-18','Taken');
+insert into Book_Issue values(61,'2021-12-05',1504,51,'2021-12-15','Taken');
+insert into Book_Issue values(62,'2021-12-17',1507,50,'2021-12-27','Returned');
+
+insert into Book_Return values(62,'2021-12-19',0,0);
+
+insert into Late_Fee_Rule values(0,7,10);
+insert into Late_Fee_Rule values(7,30,100);
+insert into Late_Fee_Rule values(30,35,150);
+insert into Late_Fee_Rule values(35,40,200);
+
