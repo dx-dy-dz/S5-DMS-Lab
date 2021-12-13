@@ -32,3 +32,75 @@ insert into Publisher values(106,'Eternal Editions','PQR');
 insert into Publisher values(107,'Marvel Editions','STU');
 insert into Publisher values(108,'Harper Collins','VWX');
 insert into Publisher values(109,'Bloomsbury','VWX');
+
+
+
+insert into Book values(1500,'Tale of two cities',1,300,101,'2000-08-12',2,'Available');
+
+insert into Book values(1501,'Chemmeen',2,450,100,'1990-07-11',5,'Not Available');
+
+
+insert into Book values(1502,'Senorita',3,500,103,'2010-09-19',1,'Available');
+
+insert into Book values(1503,'Carpe Diem',4,250,106,'2018-10-02',6,'Available');
+
+
+insert into Book values(1504,'Bonjour',4,550,102,'2015-06-01',3,'Not Available');
+
+insert into Book values(1505,'Kannamma',8,100,104,'2011-02-19',1,'Not Available');
+
+
+insert into Book values(1506,'Raazi',5,800,105,'2019-01-21',2,'Available');
+
+
+insert into Book values(1507,'2 States',5,600,101,'2011-06-01',1,'Available');
+
+
+insert into Book values(1508,'Maafi',6,250,103,'2006-08-03',6,'Not Available');
+
+
+insert into Book values(1509,'Pattaas',10,350,108,'2016-06-17',2,'Available');
+
+insert into Author values(20,'Chetan Bhagat','chetan@gmail.com','9712472','Available');
+
+
+insert into Author values(21,'Vallathol','Vallathol@gmail.com','9272272','Not Available');
+
+
+insert into Author values(22,'Basheer','Basheer@gmail.com','9324632','Available');
+
+
+insert into Author values(23,'Williams','willy@gmail.com','9436822','Not Available');
+
+
+insert into Author values(24,'Dan Brown','danny@gmail.com','7028122','Not Available');
+
+
+insert into Author values(25,'Ryan Gold','ryan@gmail.com','8022122','Available');
+
+
+insert into Author values(26,'Kabir','kabir@gmail.com','9222122','Available');
+
+
+insert into Author values(27,'Charles Dickens','charles@gmail.com','7039122','Available');
+
+
+insert into Author values(28,'Muhammad Iqbal','iqbal@gmail.com','8909122','Not Available');
+
+
+insert into Author values(29,'Priyanka Chopra','pcchopra@gmail.com','9038022','Not Available');
+
+
+insert into Author values(30,'Anabale cortes','anabale@gmail.com','7092722','Available');
+
+
+insert into Author values(31,'Muthuraman','muthu@gmail.com','8092622','Available');
+
+
+insert into Author values(32,'Hazel Lancaster','hazel@gmail.com','9067622','Not Available');
+
+
+insert into Author values(33,'Bin Laden','bin@gmail.com','8047622','Available');
+
+
+insert into Author values(34,'Sukumara Kurupp','findmeifyoucan@gmail.com','9047622','Not Available');
