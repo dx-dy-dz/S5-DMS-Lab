@@ -56,7 +56,7 @@ insert into Author values(28,'Muhammad Iqbal','iqbal@gmail.com','8909122','Not A
 insert into Author values(29,'Arundhathi Roy','aroya@gmail.com','9038022','Not Available');
 insert into Author values(30,'Jane Austen','jane@gmail.com','7092722','Available');
 insert into Author values(31,'Victor Hugo','vhugo@gmail.com','8092622','Available');
-insert into Author values(32,'Hazel Lancaster','hazel@gmail.com','9067622','Not Available');
+insert into Author values(32,'Anita Desai','anitad@gmail.com','9067622','Not Available');
 insert into Author values(33,'Bin Laden','bin@gmail.com','8047622','Available');
 insert into Author values(34,'Sukumara Kurupp','findmeifyoucan@gmail.com','9047622','Not Available');
 
