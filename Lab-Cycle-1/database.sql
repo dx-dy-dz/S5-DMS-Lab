@@ -28,9 +28,9 @@ insert into Publisher values(102,'Hachette India','GHI');
 insert into Publisher values(103,'Penguin Books','JKL');
 insert into Publisher values(104,'Pearson','MNO');
 insert into Publisher values(105,'Graywolf Press','PQR');
-insert into Publisher values(106,'Eternal Editions','PQR');
+insert into Publisher values(106,'Eternal Editions','PQT');
 insert into Publisher values(107,'Marvel Editions','STU');
-insert into Publisher values(108,'Harper Collins','VWX');
+insert into Publisher values(108,'Harper Collins','VRX');
 insert into Publisher values(109,'Bloomsbury','VWX');
 
 insert into Book values(1500,'Tale of two cities',1,300,101,'2000-08-12',2,'Available');
