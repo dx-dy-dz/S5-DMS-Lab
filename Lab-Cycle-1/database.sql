@@ -12,31 +12,13 @@ CREATE TABLE Book_Return(Issue_id int, Actual_date_of_return date, Late_days int
 CREATE TABLE Late_Fee_Rule(From_days int, To_days int, Amount int, primary key(From_days, To_days, Amount));
 
 insert into Language values(1,'English');
-
-
 insert into Language values(2,'Malayalam');
-
-
 insert into Language values(3,'Spanish');
-
-
 insert into Language values(4,'French');
-
-
 insert into Language values(5,'Hindi');
-
-
 insert into Language values(6,'Arabic');
-
-
 insert into Language values(7,'Urdu');
-
-
 insert into Language values(8,'Tamil');
-
-
- insert into Language values(9,'Kannada');
-
-
+insert into Language values(9,'Kannada');
 insert into Language values(10,'Telugu');
 
