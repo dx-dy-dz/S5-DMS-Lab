@@ -23,30 +23,12 @@ insert into Language values(9,'Kannada');
 insert into Language values(10,'Telugu');
 
 insert into Publisher values(100,'DC Books','ABC');
-
-
 insert into Publisher values(101,'Wiley','DEF');
-
-
 insert into Publisher values(102,'Gowri Books','GHI');
-
-
 insert into Publisher values(103,'Divya Books','JKL');
-
-
 insert into Publisher values(104,'Fathima Books','MNO');
-
-
 insert into Publisher values(105,'Athul Books','PQR');
-
-
 insert into Publisher values(106,'Eternal Editions','PQR');
-
-
 insert into Publisher values(107,'Marvel Editions','STU');
-
-
 insert into Publisher values(108,'Balarama Editions','VWX');
-
-
 insert into Publisher values(109,'Manorama Editions','VWX');
