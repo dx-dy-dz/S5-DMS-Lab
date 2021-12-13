@@ -69,3 +69,4 @@ insert into Book_Author values(1506,20);
 insert into Book_Author values(1504,25);
 insert into Book_Author values(1509,33);
 insert into Book_Author values(1501,21);
+insert into Book_Author values(1503,29);
