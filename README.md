@@ -17,6 +17,8 @@ The requirement: A library wants to maintain the record of books, members, book 
 8. LANGUAGE(Language_id, Name) //Static Table for storing permanent data
 9. LATE_FEE_RULE(FromDays, ToDays, Amount) // Composite Key
 
+
+Create a normalized database design with proper tables, columns, column types, and constraints
 <!-- ##EXERCISES
 1. Create a normalized database design with proper tables, columns, column types, and constraints
 2. Create an ER diagram for the above database design.
