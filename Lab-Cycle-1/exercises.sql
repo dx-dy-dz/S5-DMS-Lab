@@ -16,3 +16,8 @@ ALTER TABLE Language ADD region varchar(20);
 
 // To drop a column
 ALTER TABLE Language DROP region;
+
+// e. Create and execute SQL commands to build indices on Member_Id and Book_Id on table Book_Issue.
+CREATE index firstindex on Book_Issue(Member_Id);
+CREATE index secondindex on Book_Issue(Book_Id);
+SHOW indexes from Book_Issue;
