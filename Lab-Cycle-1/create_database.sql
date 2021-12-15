@@ -74,7 +74,7 @@ insert into Book_Author values(1503,29);
 insert into Member values(50,'Fathima',001,24,234769,'fathima@gmail.com','2019-08-20','Y');
 insert into Member values(51,'Gowri',002,28,637718,'mungath@gmail.com','2021-06-29','Y');
 insert into Member values(52,'Divya',002,22,374793,'dd@gmail.com','2018-02-18','Y');
-insert into Member values(53,'Sam',003,16,324622,'sam@gmail.com','2013-01-28','N');
+insert into Member values(53,'Sam',003,16,324622,'sam@gmail.com','2013-01-28','N'); 
 insert into Member values(54,'Robert',001,25,782322,'rb@gmail.com','2017-07-21','N');
 insert into Member values(55,'Archana',001,21,809322,'archana@gmail.com','2010-08-22','Y');
 insert into Member values(56,'Ardra',003,20,898266,'ardra@gmail.com','2017-01-12','Y');
