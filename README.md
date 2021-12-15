@@ -17,9 +17,16 @@ The requirement: A library wants to maintain the record of books, members, book 
 8. LANGUAGE(Language_id, Name) //Static Table for storing permanent data
 9. LATE_FEE_RULE(FromDays, ToDays, Amount) // Composite Key
 
-##EXERCISES
+## EXERCISES
 1. Create a normalized database design with proper tables, columns, column types, and constraints
 2. Write SQL commands to
-** a. Create a database by name Library. Drop the database and re-create it.
-** b. Create DDL statements and create the tables and constraints (from the design) in the database created in step-a (Library)
+  * a. Create a database by name Library. Drop the database and re-create it.
+  * b. Create DDL statements and create the tables and constraints (from the design) in the database created in step-a (Library)
+  * c. Create and execute DROP TABLE command in tables with and without FOREIGN KEY constraints.
+  * d. Create and execute ALTER TABLE command in tables with data and without data.
+  * e. Create and execute SQL commands to build indices on Member_Id and Book_Id on table Book_Issue.
+  * f. Create and execute GRANT/REVOKE commands on tables.
+  * g. Create and execute SQL commands to insert data into each of the tables designed
+  * h. Learn and execute bulk import of data to tables from CSV files (insert 1000 records of books into the BOOK table from a CSV file).
+  * i. Create and execute UPDATE/DELETE commands on tables. Try to update/delete rows with Primary and Foreign Keys. Try bulk updates or deletes using SQL UPDATE statement
 
