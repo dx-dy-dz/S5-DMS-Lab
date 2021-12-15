@@ -21,3 +21,11 @@ ALTER TABLE Language DROP region;
 CREATE index firstindex on Book_Issue(Member_Id);
 CREATE index secondindex on Book_Issue(Book_Id);
 SHOW indexes from Book_Issue;
+
+// f. Create and execute GRANT/REVOKE commands on tables.
+create user 'myuser'@'%' identified by 'password';
+GRANT select on Book to myuser;
+GRANT select,alter on Book to myuser;
+show grants;
+REVOKE select on Book from myuser;
+GRANT select,alter on Book to myuser;
