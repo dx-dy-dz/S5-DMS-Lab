@@ -1,8 +1,7 @@
 create database MyLibrary;
 use MyLibrary;
 go
-drop table if exists Language;
-drop table if exists Publisher;
+
 drop table if exists Book;
 drop table if exists Author;
 drop table if exists Book_Author;
@@ -10,6 +9,9 @@ drop table if exists Member;
 drop table if exists Book_Issue;
 drop table if exists Book_Return;
 drop table if exists Late_Fee_Rule;
+drop table if exists Language;
+drop table if exists Publisher;
+
 CREATE TABLE Language(Language_id int primary key, name varchar(20));
 CREATE TABLE Publisher(Publisher_id int primary key, name varchar(20), address varchar(40));
 CREATE TABLE Book(Book_id int primary key, Title varchar(20), Language_id int, MRP int, Publisher_id int, Published_date date, Volume int, status varchar(20), Foreign key(Language_id) references Language(Language_id), Foreign key(Publisher_id) references Publisher(Publisher_id));
